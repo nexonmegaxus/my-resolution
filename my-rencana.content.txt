@@ -1,0 +1,6 @@
+RENCANA MY KONTEN
+- misal: video javascript
+    * mau bikin array
+    * mau bikin index
+- misal: PHP frameworks
+- misal: mukbang
