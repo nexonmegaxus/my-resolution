@@ -3,6 +3,7 @@ RENCANA MY KONTEN
     * mau bikin array
     * mau bikin index
       ^ vue
+      ^ react
 - misal: PHP frameworks
          ^ laravel
 - misal: mukbang
