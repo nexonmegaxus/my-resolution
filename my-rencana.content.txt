@@ -2,6 +2,9 @@ RENCANA MY KONTEN
 - misal: video javascript
     * mau bikin array
     * mau bikin index
+      ^ vue
 - misal: PHP frameworks
+         ^ laravel
 - misal: mukbang
 - misal: data science
+- materi python
