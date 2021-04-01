@@ -4,3 +4,4 @@ RENCANA MY KONTEN
     * mau bikin index
 - misal: PHP frameworks
 - misal: mukbang
+- misal: data science
